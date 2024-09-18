@@ -1,0 +1,19 @@
+.klass1 {
+    color:red; font-style: italic; font-size: large;
+}
+
+.klass2 {
+    color: aqua; font-style: oblique; font-size: medium;
+}
+
+.klass3 {
+    color:blueviolet; font-size: small; font-style: initial;
+}
+
+.klass4 {
+    color:chartreuse; font-size: large; font-style: unset;
+}
+
+.klass5 {
+    color:crimson; font-size: large; font-style: inherit;
+}
